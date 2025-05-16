@@ -1,5 +1,8 @@
 ## [ˈwɛs.tn̩ ˈɹu.ɾɚ]
 
+* Recent retrospection: [A Decade as a Core Committer: My WordPress Contribution History](https://weston.ruter.net/2025/05/14/a-decade-as-a-core-committer-my-wordpress-contribution-history/)
+* Bluesky: [@weston.ruter.net](https://bsky.app/profile/weston.ruter.net)
+
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=westonruter&show_icons=true)
 
 <!--
