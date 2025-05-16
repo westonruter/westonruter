@@ -1,4 +1,6 @@
-## Hi there 👋
+## [ˈwɛs.tn̩ ˈɹu.ɾɚ]
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=westonruter&show_icons=true)
 
 <!--
 **westonruter/westonruter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
