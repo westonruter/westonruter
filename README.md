@@ -6,7 +6,7 @@
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=westonruter&show_icons=true)
 
-![WordPress.org profile card courtesy of CardPress](https://cardpress.us/card?username=westonruter)
+![WordPress.org profile card courtesy of CardPress](https://cardpress.us/card?username=westonruter&avatar=false)
 
 <!--
 **westonruter/westonruter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
