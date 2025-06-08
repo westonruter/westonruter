@@ -4,9 +4,9 @@
 * [Gravatar](https://gravatar.com/westonruter)
 * [WordPress.org Profile](https://profile.wordpress.org/westonruter)
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=westonruter&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=westonruter&show_icons=true" width="467" height="195" alt="GitHub Readme Stats">
 
-![WordPress.org profile card courtesy of CardPress](https://cardpress.us/card?username=westonruter&avatar=false)
+<img src="https://cardpress.us/card?username=westonruter&avatar=false" width="500" height="273" alt="WordPress.org profile card courtesy of CardPress">
 
 <!--
 **westonruter/westonruter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
